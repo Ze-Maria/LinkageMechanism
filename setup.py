@@ -6,11 +6,12 @@ setup(
     author = 'José Maria Bezerra',
     author_email = 'zemaria@ufpe.br',
     packages = ['LinkageMechanism'],
+    url = 'https://https://github.com/Ze-Maria/LinkageMechanism',
     project_urls = {
         'Código fonte': 'LinkageMechanism',
-        'Download': 'LinkageMechanism/archive/1.0.0.zip'
+        'Download': 'https://https://github.com/Ze-Maria/LinkageMechanism/archive/1.0.0.zip'
     },
-    license = 'Mozilla Public License 2.0',
+    license = 'MIT License',
     description = 'App para análise de Mecanismos',
     keywords = 'mechanism linkage ufpe'
 )
